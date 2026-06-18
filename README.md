@@ -39,3 +39,5 @@ Abaixo estão as respostas para as perguntas de negócio e impacto social que gu
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+
+2. Baixe o DATASET -> RENAEST.CSV
